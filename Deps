@@ -1,0 +1,2 @@
+rpi_3_b_plus_defconfig
+    bison, flex, libgnutls28-dev
